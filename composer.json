@@ -1,0 +1,19 @@
+{
+    "name": "asus/bienesraices",
+    "description": "Bienes y Raices POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Reynaldo Kama",
+            "email": "rkama54@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^3.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+    }
+}
